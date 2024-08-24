@@ -1,0 +1,12 @@
+httpx
+srsly
+loguru
+typer
+elasticsearch==7.13.0
+SQLAlchemy==2.0.22
+requests==2.31.0
+psycopg2==2.9.6
+pandas==2.1.1
+numpy==1.26.0
+pydantic==1.10.8
+python-dotenv==1.0.0
